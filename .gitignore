@@ -1,0 +1,4 @@
+venv/
+local_qdrant/
+.env
+test/
