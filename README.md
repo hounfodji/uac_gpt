@@ -59,8 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google's Gemini model for natural language processing
 - Cohere for embeddings and reranking capabilities
 - Qdrant for vector storage and retrieval
-
-## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/uac-chatbot](https://github.com/yourusername/uac-chatbot)
